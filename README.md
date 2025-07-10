@@ -5,6 +5,7 @@ Screen shots of a AWS Lex Bot
 
 The custom LEX RESTful interface sends back responses for the UI.
 
+This screen shot of the FindMyOrder, which calls a Lambda function and returns back a list of records (max 5).
 ![image](https://github.com/user-attachments/assets/38cd5d15-ae31-4481-b79d-9779044bdc75)
 
 
